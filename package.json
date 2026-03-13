@@ -1,0 +1,24 @@
+{
+  "name": "project-pemograman-fullstack-coredev-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mip-co/Project-Pemograman-Fullstack-CoreDev-Solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mip-co/Project-Pemograman-Fullstack-CoreDev-Solution/issues"
+  },
+  "homepage": "https://github.com/Mip-co/Project-Pemograman-Fullstack-CoreDev-Solution#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
